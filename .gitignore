@@ -1,0 +1,19 @@
+# FinQA is an external dataset/repository
+FinQA/
+
+# Environment variables / API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Hugging Face / model cache
+.cache/
+
+# VS Code
+.vscode/
